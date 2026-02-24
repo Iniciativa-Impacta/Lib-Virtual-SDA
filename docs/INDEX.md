@@ -5,6 +5,7 @@
 ```
 SystemDesignAnalysis/
 ├── README.md                          # Visão geral do projeto
+├── VISION.md                          # Documento de visão do produto
 ├── Modelagem.pdf                      # Apresentação original do professor
 │
 └── docs/
@@ -13,6 +14,9 @@ SystemDesignAnalysis/
     ├── PARTE3.md                      # SRS e Artefatos
     ├── PARTE4.md                      # Exercício Prático
     ├── PARTE5.md                      # Checklist de Validação
+    ├── REQUISITOS.md                  # Requisitos detalhados
+    ├── PERGUNTAS.md                   # Perguntas frequentes
+    ├── CONCORRENTES.md                # Análise de concorrentes
     └── INDEX.md                       # Este arquivo
 ```
 
@@ -81,6 +85,42 @@ Domine a **documentação formal** de requisitos:
 - Exemplos de contra-exemplos
 
 **Saiba Mais:** Como garantir qualidade profissional no SRS
+
+---
+
+## Documentos Complementares - Lib Virtual
+
+### **Análise de Concorrentes** [CONCORRENTES.md](CONCORRENTES.md)
+**Duração: ~30 minutos**
+
+**Compreenda** o cenário competitivo:
+- Análise detalhada dos principais concorrentes
+- Matriz de comparação de funcionalidades
+- Gaps e oportunidades de mercado
+- Estratégias de diferenciação
+- Posicionamento e barreiras de entrada
+
+**Saiba Mais:** Análise competitiva e estratégia de produto
+
+### **Requisitos Funcionais** [REQUISITOS.md](REQUISITOS.md)
+**Duração: ~20 minutos**
+
+**Especificações** detalhadas dos requisitos:
+- Requisitos funcionais completos
+- Casos de uso expandidos
+- Regras de negócio
+
+**Saiba Mais:** Levantamento completo de funcionalidades
+
+### **Perguntas Frequentes** [PERGUNTAS.md](PERGUNTAS.md)
+**Duração: ~10 minutos**
+
+**Esclareça** dúvidas sobre o projeto:
+- Questões sobre modelagem
+- Questões sobre implementação
+- Questões sobre negócio
+
+**Saiba Mais:** Respostas para dúvidas comuns
 
 ---
 
