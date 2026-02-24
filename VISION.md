@@ -133,42 +133,73 @@ Brasil:
 - Leitores digitais: 15 milhoes
 - Mercado editorial digital: crescimento de 15% ao ano
 
-### Concorrentes
+### Panorama Competitivo (Resumo)
 
-| Plataforma | Modelo | Diferenciais |
-|------------|--------|--------------|
-| Amazon Kindle Unlimited | Assinatura | Catalogo massivo |
-| Scribd | Assinatura | Livros e audiobooks |
-| Skeelo | Assinatura | Foco Brasil |
-| Ubook | Assinatura | Audiobooks e e-books |
-| Lib Virtual | Assinatura | Autores BR independentes e transparencia |
+**7 concorrentes ativos principais:**
+
+| Plataforma | Preço Mensal | Posicionamento |
+|------------|--------------|----------------|
+| Amazon Kindle Unlimited | R$ 24,90 | Líder global, catálogo massivo |
+| Everand (Scribd) | R$ 27,99 | Premium internacional, multi-formato |
+| Skeelo | R$ 14,90-19,90 | Nacional competitivo, parcerias corporativas |
+| Ubook | R$ 18,90-26,90 | Líder audiobooks BR |
+| Kobo Plus | ~R$ 45-60* | Premium técnico internacional |
+| Bookmate | ~R$ 39,90 (+ Free) | Social freemium internacional |
+| Perlego | US$ 15-27 (~R$ 75-148) | Acadêmico especializado |
+| **Lib Virtual** | **R$ 14,90-24,90** | **Autores BR independentes + transparência** |
+
+**Caso de estudo:** TAG Livros (fechada em 2022) - Lições sobre sustentabilidade e foco
+
+📄 **Para análise detalhada completa, consulte:** [docs/CONCORRENTES.md](docs/CONCORRENTES.md)
+- Análise de gaps e oportunidades
+- Estratégias de diferenciação
+- Benchmarking de funcionalidades
+- Análise de ameaças competitivas
+- Posicionamento estratégico detalhado
 
 ### Analise SWOT
 
-Forcas:
-- Foco em autores brasileiros independentes
-- Transparencia na remuneracao
-- Modelo sustentavel
-- Dashboard analitico robusto
+**Forcas:**
+- Foco exclusivo em autores brasileiros independentes (único no mercado)
+- Transparência total na remuneração (nenhum concorrente oferece)
+- Dashboard analítico robusto para autores
+- Modelo sustentável e escalável (100% digital)
+- Preço competitivo (R$ 14,90-24,90)
+- Equilíbrio entre comunidade e leitura profunda
 
-Fraquezas:
-- Marca desconhecida
-- Catalogo inicial pequeno
-- Recursos limitados
+**Fraquezas:**
+- Marca desconhecida (vs Amazon consolidada)
+- Catálogo inicial pequeno (vs milhões de títulos dos gigantes)
+- Recursos financeiros limitados
+- Necessidade de construir base de leitores e autores simultaneamente
 
-Oportunidades:
-- Crescimento do mercado de e-books
-- Aumento de autores independentes
-- Demanda por conteudo nacional
+**Oportunidades:**
+- Crescimento de 15% ao ano no mercado digital
+- Aumento de autores independentes brasileiros
+- Demanda crescente por conteúdo nacional
+- Gaps claros deixados por concorrentes (transparência, dashboard, foco independentes)
+- Concorrentes aumentaram preços (Kindle R$ 24,90, Skeelo R$ 19,90)
+- Lições do fechamento da TAG Livros (evitar logística física)
 
-Ameacas:
-- Concorrencia de grandes players
-- Pirataria
-- Mudancas regulatorias
+**Ameaças:**
+- Concorrência de grandes players (Amazon, recursos massivos)
+- Skeelo pode melhorar dashboard de autores
+- Pirataria no mercado brasileiro
+- Mudanças regulatórias
+- Entrada de nova plataforma com alto investimento
 
 ### Diferenciacao
 
-A plataforma que valoriza autores brasileiros e conecta leitores com conteudo nacional de qualidade.
+**Posicionamento único:** "A plataforma DOS autores brasileiros independentes"
+
+**O que NENHUM concorrente oferece:**
+1. Foco laser em autores independentes BR com curadoria ativa
+2. Transparência PARA autores (fórmula pública, dashboard completo)
+3. Tecnologia A SERVIÇO da descoberta de novos talentos
+4. Comunidade EM TORNO do conteúdo brasileiro (não apenas transacional)
+5. Remuneração justa proporcional ao consumo real
+
+**Estratégia:** Não competir no mesmo terreno dos gigantes (volume), mas criar território próprio focado em qualidade, transparência e valorização de autores nacionais independentes.
 
 ## Requisitos de Produto
 
