@@ -2,35 +2,19 @@
 
 - RF-01. O sistema deve permitir cadastro de usuários.
 - RF-02. O sistema deve permitir login dos usuários cadastrados.
-- RF-03. O sistema deve permitir buscar por e-books por título, autor, - categoria ou palavra-chave.
-- RF-04. O sistema deve permitir acesso ao catálogo completo de e-books mediante assinatura ativa.
-- RF-05. O sistema deve permitir leitura de um e-book selecionado a partir do catálogo.
-- RF-06. O sistema deve sincronizar automaticamente o progresso de leitura entre diferentes dispositivos.
-- RF-07. O sistema deve permitir marcação de páginas, realização de anotações e destacar trechos dos e-books.
-- RF-08. O sistema deve permitir download de e-books para leitura offline.
-- RF-09. O sistema deve fornecer recomendações personalizadas de e-books com base no histórico de leitura.
-- RF-10. O sistema deve permitir gerenciamento de  assinatura, incluindo renovação e cancelamento.
-- RF-11. O sistema deve permitir avaliação dos e-books lidos.
-- RF-12. O sistema deve permitir cadastro e publicação de e-books na plataforma.
-- RF-13. O sistema deve permitir definição das informações do e-book, incluindo título, sinopse, categoria e capa.
-- RF-14. O sistema deve permitir uploads de arquivos de e-book nos formatos EPUB e PDF.
-- RF-15. O sistema deve permitir o acompanhamento de métricas de leitura em tempo real, incluindo leitores únicos, páginas lidas e tempo médio de leitura.
-- RF-16. O sistema deve permitir visualização de receita gerada pelo consumo das obras.
-- RF-17. O sistema deve realizar automaticamente o pagamento mensal às partes interessadas.
-- RF-18. O sistema deve permitir edição e remoção de e-books previamente publicados.
-- RF-19. O sistema deve permitir definição de disponibilidade regional dos e-books.
-- RF-20. O sistema deve permitir gerencimento completo do catálogo de e-books.
-- RF-21. O sistema deve permitir upload de lote de múltiplos e-books.
-- RF-22. O sistema deve permitir controles de licenciamento e direitos autorais dos e-books.
-- RF-23. O sistema deve permitir geração de relatórios de consumo por título.
-- RF-24. O sistema deve permitir visualização de dashboards de com métricas consolidadas de desempenho.
-- RF-25. O sistema deve realizar o repasse fincanceiro conforme consumo das obras.
-- RF-26. O sistema deve permitir definição de estratégias de precificação base para os e-books.
-- RF-27. O sistema deve permitir gerenciamento de usuários da plataforma.
-- RF-28. O sistema deve permitir moderação de conteúdo publicado, aprovando ou rejeitando e-books.
-- RF-29. O sistema deve permitir configuração de regras de distribuição de receita da plataforma.
-- RF-30. O sistema deve permitir geração de relatórios financeiros consolidados.
-- RF-31. O sistema deve permitir monitoramento da saúde da plataforma, incluindo indicadores de performance e registros de erros.
+- RF-03. O sistema deve permitir Gerenciar o perfil do usuário
+- RF-04. O sistema deve permitir Buscar e-books por título, autor ou categoria.
+- RF-05. O sistema deve permitir Ler e-books em múltiplos dispositivos com sincronização automática.
+- RF-06. O sistema deve permitir Baixar e-books para leitura offline.
+- RF-07. O sistema deve permitir Marcar páginas, anotar e destacar trechos.
+- RF-08. O sistema deve permitir Gerenciar assinatura (renovação, cancelamento).
+- RF-09. O sistema deve permitir Receber pagamentos mensais automaticamente.
+- RF-10. O sistema deve permitir Gerenciar catálogo e fazer upload em lote.
+- RF-11. O sistema deve permitir Controlar direitos autorais e licenciamento.
+- RF-12. O sistema deve permitir Visualizar relatórios consolidados de consumo e receita.
+- RF-13. O sistema deve permitir Gerenciar usuários e moderar conteúdo.
+- RF-14. O sistema deve permitir Configurar regras de distribuição de receita.
+- RF-15. O sistema deve permitr Monitorar saúde da plataforma e gerar relatórios financeiros.
 
 ## Requisitos Não-Funcionais
 
