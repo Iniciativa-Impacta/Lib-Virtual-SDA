@@ -8,7 +8,7 @@
 - RF-06. O sistema deve permitir gerenciar e-books.
 - RF-07. O sistema deve permitir Gerenciar assinatura (renovação, cancelamento).
 - RF-08. O sistema deve permitir gerenciamento da plataforma.
-- RF-09. O sistema deve permitir reportar relatório.
+- RF-09. O sistema deve permitir geração de  relatórios.
 
 ## Requisitos Não-Funcionais
 
