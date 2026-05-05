@@ -1,5 +1,7 @@
 # Lib Virtual - Plataforma de Assinatura de Livros Digitais
 
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/21de01ce-e741-454a-9290-e8f11dc8e33d" />
+
 ## Descricao do Projeto
 
 A Lib Virtual e uma plataforma de assinatura de livros digitais que permite que leitores acessem um catalogo amplo de obras mediante assinatura, enquanto autores e editoras sao remunerados proporcionalmente ao consumo real de leitura de seus titulos.
