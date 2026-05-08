@@ -1,0 +1,19 @@
+flowchart TD
+
+    A([Início]) --> B[Acessar tela de cadastro]
+
+    B --> C[Inserir nome]
+    C --> D[Inserir e-mail]
+    D --> E[Inserir senha]
+    E --> F[Confirmar senha]
+
+    F --> G[Validar informações]
+
+    G --> H{Dados válidos?}
+
+    H -->|Sim| I[Salvar cadastro]
+    I --> J[Exibir mensagem de sucesso]
+    J --> K([Fim])
+
+    H -->|Não| L[Exibir mensagem de erro]
+    L --> C

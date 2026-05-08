@@ -1,0 +1,20 @@
+flowchart TD
+
+    A([Início]) --> B[Acessar tela de login]
+
+    B --> C[Inserir e-mail]
+    C --> D[Inserir senha]
+
+    D --> E[Validar credenciais]
+
+    E --> F{Login válido?}
+
+    F -->|Sim| G[Permitir acesso ao sistema]
+    G --> H[Exibir tela inicial]
+    H --> I([Fim])
+
+    F -->|Não| J[Exibir mensagem de erro]
+    J --> K{Tentar novamente?}
+
+    K -->|Sim| C
+    K -->|Não| I

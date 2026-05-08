@@ -1,0 +1,20 @@
+flowchart TD
+
+    A([Início]) --> B[Acessar sistema]
+    B --> C[Selecionar Buscar eBooks]
+
+    C --> D[Inserir título, autor ou categoria]
+    D --> E[Realizar pesquisa]
+
+    E --> F{eBook encontrado?}
+
+    F -->|Sim| G[Exibir resultados]
+    G --> H[Selecionar eBook]
+    H --> I[Exibir detalhes do eBook]
+    I --> J([Fim])
+
+    F -->|Não| K[Exibir mensagem de nenhum resultado]
+    K --> L{Pesquisar novamente?}
+
+    L -->|Sim| D
+    L -->|Não| J

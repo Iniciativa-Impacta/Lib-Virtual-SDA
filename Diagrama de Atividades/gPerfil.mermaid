@@ -1,0 +1,43 @@
+flowchart TD
+
+    A([Início]) --> B[Acessar sistema]
+    B --> C[Selecionar Gerenciar Perfil]
+
+    C --> D{Editar perfil?}
+
+    D -->|Sim| E[Alterar informações pessoais]
+    E --> F[Validar dados]
+    F --> G{Dados válidos?}
+
+    G -->|Sim| H[Salvar alterações]
+    G -->|Não| I[Exibir mensagem de erro]
+
+    I --> E
+    H --> Z([Fim])
+
+    D -->|Não| J{Alterar senha?}
+
+    J -->|Sim| K[Inserir senha atual]
+    K --> L[Inserir nova senha]
+    L --> M[Confirmar nova senha]
+    M --> N{Senha válida?}
+
+    N -->|Sim| O[Salvar nova senha]
+    N -->|Não| P[Exibir mensagem de erro]
+
+    P --> L
+    O --> Z
+
+    J -->|Não| Q{Excluir perfil?}
+
+    Q -->|Sim| R[Confirmar exclusão do perfil]
+    R --> S{Confirma exclusão?}
+
+    S -->|Sim| T[Excluir perfil]
+    S -->|Não| Z
+
+    T --> Z
+
+    Q -->|Não| U[Visualizar perfil]
+    U --> V[Exibir informações do perfil]
+    V --> Z                                 

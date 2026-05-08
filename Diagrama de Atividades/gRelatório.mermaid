@@ -1,0 +1,23 @@
+flowchart TD
+
+    A([Início]) --> B[Acessar sistema]
+    B --> C[Selecionar Gerar Relatório]
+
+    C --> D[Escolher tipo de relatório]
+    D --> E[Definir filtros e período]
+
+    E --> F[Processar dados]
+
+    F --> G{Dados encontrados?}
+
+    G -->|Sim| H[Gerar relatório]
+    H --> I[Exibir relatório]
+    I --> J{Deseja exportar?}
+
+    J -->|Sim| K[Exportar relatório]
+    K --> L([Fim])
+
+    J -->|Não| L
+
+    G -->|Não| M[Exibir mensagem de nenhum dado encontrado]
+    M --> L
